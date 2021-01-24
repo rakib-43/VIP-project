@@ -1,0 +1,76 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>All about me </title>
+</head>
+<body>
+<h1>Rakib Hasan 
+  <p style="font-size:70%;">CSE Engineer.</p>
+</h1>
+<a href="mailto:hasanrakib739@gmail.com">Send email</a>
+<br><a href="https://www.facebook.com/Rakib Hasan / "target="_blank">Facebook</a>
+
+<br><img src="20181223152320_img_2908.jpg" alt="My picture"width="400" height="360">
+<h3>Myself</h3>
+<p>Hi, I am Rakib Hasan Imran.A man who is surrended by love,grace,compassion,mercy and happiness. 
+A man who act as a philosopher but didn't have money.
+
+Some times I read book to escape, I write to express and I sleep to forget.  
+
+I laugh a lot, people laugh at me I laugh at them together we laugh at world. 
+
+
+
+
+ 
+
+</p>
+<h3>Personal Information:</h3>
+<p>
+<ul>
+  <li>
+    Most blessed person in the world.
+  <li>
+    <span id="course-name">Languages Known:</span>Bangla,English and Hindi.</li>
+  <li>
+    <span id="course-name">Hobbies:</span>Travelling ,Drawing, Hangout with new people.</li>
+<h3>Educational Qualifications</h3>
+<table>
+  <tr id="heading">
+    <td>Qualification</td>
+    <td>Board</td>
+	
+    <td>Year</td>
+  </tr>
+  <tr>
+    <td>S.S.C (Science)</td>
+    <td>Dhaka board</td>
+    
+    <td>2013</td>
+  </tr>
+  <tr>
+    <td>H.S.C (Science)</td>
+    <td>Dhaka  Board</td>
+   
+    <td>2015</td>
+  </tr>
+  <tr>
+    <td>B.Sc. in Computer Science & Engineering</td>
+    <td>Stamford University </td>
+    <td>1st Class </td>
+    <td>2022</td>
+  </tr>
+
+</table>
+<h3>Technical Skills</h3>
+<p>
+<ul>
+  <li>
+    <span id="course-name">Operating Systems:</span> Windows 7 , windows 10, </li>
+
+  <li>
+    <span id="course-name">Programming Skills:</span>HTML, CSS, Python,Java. </li></ul>
+</p>
+
+</body>
+</html>
